@@ -11,3 +11,5 @@ S
 #tests/credential-management.test.ts,1/6/169e8ebd2056bf2b79545d1706ac0315d5d4caed
 K
 contracts/identity-nft.clar,c/8/c89d6306b978ca3825ee635735c2fd7da2dc35eb
+J
+tests/identity-nft.test.ts,0/3/03e62b99b87bcb9b780e943b388a94f3360ee65b
