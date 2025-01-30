@@ -7,3 +7,5 @@ N
 tests/digital-identity.test.ts,a/b/aba79878b1fbe2a3d673be491edfa0f7946a00b4
 T
 $contracts/credential-management.clar,e/b/ebff0945ffbdbc5d3272a50f39a5f15bdd2abe6a
+S
+#tests/credential-management.test.ts,1/6/169e8ebd2056bf2b79545d1706ac0315d5d4caed
