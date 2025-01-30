@@ -5,3 +5,5 @@ O
 contracts/digital-identity.clar,b/6/b6f9d6298afdd648b6cc77af6bdfaa9b99bfd037
 N
 tests/digital-identity.test.ts,a/b/aba79878b1fbe2a3d673be491edfa0f7946a00b4
+T
+$contracts/credential-management.clar,e/b/ebff0945ffbdbc5d3272a50f39a5f15bdd2abe6a
